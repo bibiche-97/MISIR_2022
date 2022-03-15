@@ -197,6 +197,7 @@ class FileDattente:
 	
 	"""
 		Méthode publique d'ajout d'un client dans la file d'attente
+       Bibihe
 	"""
 	def addClient(self):
 		# Affectation d'un numéro de ticket au client
